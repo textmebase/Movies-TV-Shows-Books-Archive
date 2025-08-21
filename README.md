@@ -2,6 +2,7 @@
 - [TV Shows](#tv-shows)
 
 - [Movies](#movies)
+- [Books](#books)
 
 ---
 # TV shows
@@ -81,3 +82,7 @@
 15. ~~[Ballerina](https://www.youtube.com/watch?v=0FSwsrFpkbw&t=5)~~
 16. [Star Wars: The Force Awakens](https://www.youtube.com/watch?v=sGbxmsDFVnE&t=133)
 17. [G.I. Joe: Retaliation](https://www.youtube.com/watch?v=bd3JmlIxQXM&t=113)
+
+---
+# Books
+1. **[Automate the boring stuff with python]**(#)
